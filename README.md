@@ -1,5 +1,6 @@
 <h3> Hi I’m Danish Bashir </h3>
-I’m a Computer Science student at COMSATS Islamabad🌄. With an ever-increasing thirst, of learning and applying the learned concepts, I aspire to excel in the art of 'Programming'. That's why, I started programming in <em>Python</em>. So lucky I was that <b>Python-CS50 by <em>Sir David Malan</em></b> taught me useful programming concepts. As the tech stacks have grown in number and diverse programming technologies have occupied the world of programming, It took me some time to select an appropriate field of Computer Science to work on. But the search is over now and I've decided to become a Full Stack Web Developer. Since I have found good mentors to guide me in the goal to become a Full Stack Web Developer, now I have gained expertise in the HTML, CSS, Boostrap, Python and JavaScript. But the learning curve is yet not over so I keep working and making use of leaned stuff in awesome projects.  I’m looking to collaborate with other Programmers and Web Developers.
+Computer Science student at COMSATS Islamabad, focused on full stack web development. Proficient in HTML, CSS, Bootstrap, Python, and JavaScript. Expanding skills in React.js, Node.js, and the MERN stack. Ready to collaborate and innovate.
+
 
 🔥Youtube -> www.youtube.com/@codingconsol
 🎯Learn to code and land a job -> https://codingconsole.com/
@@ -8,18 +9,6 @@ I’m a Computer Science student at COMSATS Islamabad🌄. With an ever-increasi
 <h3> Favourite Tech </h3>
 
 Currently, I enjoy working with:
-
-<style>
-  .tech-logo {
-    border-radius: 50%;
-    overflow: hidden;
-    transition: transform 0.3s ease;
-  }
-  
-  .tech-logo:hover {
-    transform: scale(1.1);
-  }
-</style>
 
 <p align="left">
   <img class="tech-logo" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
